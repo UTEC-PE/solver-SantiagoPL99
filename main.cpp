@@ -12,9 +12,8 @@ void menu()
 
     //char* str="7/4*((a+b)*a)+3";
     //char* str="7/4*((a+-+--b)*a)+3";
-    char* str="2+(3)";
-    //char* str="7/4*((a+b)^4*a)+3";
-    search(str,'+');
+    //char* str="2+(3)";
+    char* str="7/4*((a+b)^4*a)+3";
 }
 
 int main(int argc, char const *argv[])
